@@ -6,7 +6,7 @@
 
 Javascript is my preferred language, there's nothing I can't do, it's everywhere, it's powerful, it's fast, it's multi-functional, and the best part is that it never ceases to amaze me.
 
-### React → Roadmap ( 80% )
+### React → Roadmap ( 85% )
 
 - 📋 Hooks
 - 🎨 Style
