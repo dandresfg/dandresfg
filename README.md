@@ -5,6 +5,15 @@
 ### React → Roadmap ( 90% )
 ### React Native → Roadmap ( 60% )
 
+- 📋 Hooks
+- 🎨 Style
+- 🔨 Redux
+- 🚦 State
+- 🔏 TypeScript
+- 🍪 Api rest
+- 🧲 Server Side Render
+- 🚀 Test
+- 🖌️ Desing Patterns
 
 ## A big developer tool.
 
