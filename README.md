@@ -30,6 +30,6 @@ ___
 
 ## Contributions
 
-:star: Community :star:[jasp402/js-packtools](https://github.com/jasp402/js-packtools)
+:star: Community [jasp402/js-packtools](https://github.com/jasp402/js-packtools) :star:
 
-:star: Personal :star:[dandresfg/gist](https://gist.github.com/dandresfg)
+:star: Personal [dandresfg/gist](https://gist.github.com/dandresfg) :star:
