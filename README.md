@@ -11,21 +11,21 @@ Developer since 2018
 
 ## Skills
 
-![](https://img.shields.io/static/v1?label=Javascript&message=80%&color=success&logo=javascript&logoWidth=20)
-![](https://img.shields.io/static/v1?label=NodeJS&message=85%&color=success&logo=node.js&logoWidth=20)
-![](https://img.shields.io/static/v1?label=MySQL&message=85%&color=success&logo=mysql&logoWidth=20)
-![](https://img.shields.io/static/v1?label=Redux&message=90%&color=success&logo=redux&logoWidth=20)
-![](https://img.shields.io/static/v1?label=ReactJS&message=95%&color=success&logo=react&logoWidth=20)
-![](https://img.shields.io/static/v1?label=NextJS&message=78%&color=success&logo=next.js&logoWidth=20)
-![](https://img.shields.io/static/v1?label=Material-UI&message=78%&color=success&logo=material-ui&logoWidth=20)
+![](https://img.shields.io/static/v1?label=Javascript&message=✅&color=success&logo=javascript&logoWidth=20)
+![](https://img.shields.io/static/v1?label=NodeJS&message=✅&color=success&logo=node.js&logoWidth=20)
+![](https://img.shields.io/static/v1?label=MySQL&message=✅&color=success&logo=mysql&logoWidth=20)
+![](https://img.shields.io/static/v1?label=Redux&message=✅&color=success&logo=redux&logoWidth=20)
+![](https://img.shields.io/static/v1?label=ReactJS&message=✅&color=success&logo=react&logoWidth=20)
+![](https://img.shields.io/static/v1?label=React%20Native&message=✅&color=success&logo=react&logoWidth=20)
+![](https://img.shields.io/static/v1?label=NextJS&message=✅&color=success&logo=next.js&logoWidth=20)
 ___
-![](https://img.shields.io/static/v1?label=Css%20Flex&message=75%&color=18a0f4&logo=css3&logoWidth=20)
-![](https://img.shields.io/static/v1?label=Figma&message=70%&color=18a0f4&logo=figma&logoWidth=20)
-![](https://img.shields.io/static/v1?label=MongoDB&message=75%&color=18a0f4&logo=mongoDB&logoWidth=20)
-![](https://img.shields.io/static/v1?label=Socket%20Io&message=60%&color=18a0f4&logo=socket.io&logoWidth=20)
-![](https://img.shields.io/static/v1?label=React%20Native&message=55%&color=18a0f4&logo=react&logoWidth=20)
-![](https://img.shields.io/static/v1?label=Electron&message=60%&color=18a0f4&logo=electron&logoWidth=20)
-![](https://img.shields.io/static/v1?label=VueJS&message=70%&color=18a0f4&logo=vue.js&logoWidth=20)
+![](https://img.shields.io/static/v1?label=Figma&message=✓&color=18a0f4&logo=figma&logoWidth=20)
+![](https://img.shields.io/static/v1?label=Mongo&message=✓&color=18a0f4&logo=mongoDB&logoWidth=20)
+![](https://img.shields.io/static/v1?label=GraphQL&message=✓&color=18a0f4&logo=GraphQL&logoWidth=20)
+![](https://img.shields.io/static/v1?label=TypeScript&message=✓&color=18a0f4&logo=TypeScript&logoWidth=20)
+![](https://img.shields.io/static/v1?label=Socket%20Io&message=✓&color=18a0f4&logo=socket.io&logoWidth=20)
+![](https://img.shields.io/static/v1?label=VueJS&message=✓&color=18a0f4&logo=vue.js&logoWidth=20)
+![](https://img.shields.io/static/v1?label=Material-UI&message=✓&color=18a0f4&logo=material-ui&logoWidth=20)
 
 
 ## Contributions
