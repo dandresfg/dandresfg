@@ -1,6 +1,4 @@
-# Welcome to my house!
-
-> Javascript 4ever.
+# Welcome!
 
 ![Desarrollador de código JS](https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-Unofficial_JavaScript_logo_2.svg.png)
 ~~~
@@ -32,4 +30,5 @@ ___
 
 :star: Community [jasp402/js-packtools](https://github.com/jasp402/js-packtools) :star:
 
+:star: Personal [dandresfg/react-responsive-design](https://github.com/dandresfg/react-responsive-design) :star:
 :star: Personal [dandresfg/gist](https://gist.github.com/dandresfg) :star:
